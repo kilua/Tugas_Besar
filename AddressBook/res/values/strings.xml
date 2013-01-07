@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Address Book</string>
+  <string name="no_address">No Address Yet</string>
+  <string name="menu_insert">Add Address</string>
+  <string name="menu_delete">Delete Address</string>
+  <string name="edit_address">Edit Address</string>
+  <string name="nama">Nama</string>
+  <string name="hp">HP</string>
+  <string name="confirm">Save</string>
+</resources>
